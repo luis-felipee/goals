@@ -1,0 +1,46 @@
+header {
+  margin-bottom: 64px;
+}
+h1 {
+  font-size: 48px;
+  margin: 12px 0;
+}
+a {
+  background-color: #142d4c;
+  border: 1px solid #142d4c;
+  text-decoration: none;
+  padding: 12px 48px;
+  color: white;
+  border-radius: 4px;
+  font-size: 24px;
+}
+
+a:hover {
+  background-color: #385170;
+}
+
+header p {
+  margin-bottom: 32px;
+}
+
+ol {
+  width: 500px;
+  list-style: none;
+  margin: 36px auto 0 auto;
+  padding: 0;
+}
+
+li {
+  padding: 16px;
+  margin: 32px;
+  background-color: #142d4c;
+  color: #ececec;
+  border-radius: 6px;
+}
+h2 {
+  font-family: "Oswald", sans-serif;
+}
+
+main p {
+  margin: 12px;
+}

@@ -1,0 +1,27 @@
+img {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+p {
+  color: #385170;
+}
+
+a {
+  color: rgb(167, 1, 78);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#about {
+  font-size: 52px;
+  font-weight: bold;
+}
+#goal {
+  font-size: 24px;
+  font-weight: bold;
+}
